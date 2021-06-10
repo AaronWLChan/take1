@@ -3,6 +3,7 @@
     "name": "TAKE 1",
     "slug": "take1",
     "version": "1.0.0",
+    "description": "Film & TV App. Built with TMDB.",
     "orientation": "portrait",
     "icon": "./assets/icon2.png",
     "splash": {

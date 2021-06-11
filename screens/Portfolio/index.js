@@ -1,7 +1,6 @@
 import React, {useEffect, useState, useLayoutEffect, useCallback} from 'react'
 import { Text, View, ScrollView, TouchableOpacity } from 'react-native'
 import { request } from '../../network/tmdb'
-import moment from 'moment'
 import MediaRow from '../../components/Media/MediaRow'
 import axios from 'axios'
 import uniqBy from 'lodash/uniqBy'
